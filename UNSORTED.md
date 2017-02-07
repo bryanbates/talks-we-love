@@ -81,3 +81,8 @@
 * [Surge 2013 Lightning Talk - Bryan Cantrill](https://www.youtube.com/watch?v=vm1GJMp0QN4)
 * [Leaping the Chasm from Proprietary to Open: A Survivor's Guide - Bryan Cantrill](https://www.youtube.com/watch?v=Zpnncakrelk)
 * [Dynamic Languages in Production: Progress & Open Challenges - Bryan Cantrill & Dave Pacheco](https://www.youtube.com/watch?v=5TFILa4ju9U)
+* ["You are not expected to understand this", but you will - Arun Thomas](http://systemswe.love/videos/you-are-not-expected-to-understand-this)
+* [Life of an Airline Flight: What Systems Get You From Here to There via the Air - Adam Fletcher](http://systemswe.love/videos/life-of-an-airline-flight)
+* [Man, 'splained: 40-Plus Years of Man Page History - Breanne Boland](http://systemswe.love/videos/man-splained)
+* [Interrupts, that which scared Djikstra - Irfan Ahmad](http://systemswe.love/videos/interrupts-that-which-scared-djikstra)
+* [Down memory lane: Two decades with the slab allocator - Bryan Cantrill](http://systemswe.love/videos/down-memory-lane)
