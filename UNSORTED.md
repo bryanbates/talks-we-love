@@ -107,4 +107,5 @@
 * [Jukka Lehtosalo, David Fisher Static Types for Python PyCon 2017](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
 * [Hynek Schlawack Solid Snakes or How to Take 5 Weeks of Vacation PyCon 2017](https://youtu.be/YVuqeXyvOUc)
 * [David Beazley - The Fun of Reinvention](https://youtu.be/js_0wjzuMfc)
-* [GOTO 2017 • Idée Fixe • David Nolen](https://www.youtube.com/watch?v=lzXHMy4ewtM)
+* [GOTO 2017 - Idée Fixe - David Nolen](https://www.youtube.com/watch?v=lzXHMy4ewtM)
+* [GOTO 2016 - Software That Fits In Your Head - Dan North](https://youtu.be/4Y0tOi7QWqM)
