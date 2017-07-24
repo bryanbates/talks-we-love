@@ -109,3 +109,4 @@
 * [David Beazley - The Fun of Reinvention](https://youtu.be/js_0wjzuMfc)
 * [GOTO 2017 - Idée Fixe - David Nolen](https://www.youtube.com/watch?v=lzXHMy4ewtM)
 * [GOTO 2016 - Software That Fits In Your Head - Dan North](https://youtu.be/4Y0tOi7QWqM)
+* [Decisions, Decisions - Dan North](https://www.youtube.com/watch?v=EauykEv_2iA)
