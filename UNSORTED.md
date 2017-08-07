@@ -110,3 +110,5 @@
 * [GOTO 2017 - Idée Fixe - David Nolen](https://www.youtube.com/watch?v=lzXHMy4ewtM)
 * [GOTO 2016 - Software That Fits In Your Head - Dan North](https://youtu.be/4Y0tOi7QWqM)
 * [Decisions, Decisions - Dan North](https://www.youtube.com/watch?v=EauykEv_2iA)
+* [Vincent D. Warmerdam - TNaaS - Tech Names as a Service](https://www.youtube.com/watch?v=0hR4peP9V4A)
+* [Spec-ulation Keynote - Rich Hickey](https://www.youtube.com/watch?v=oyLBGkS5ICk)
