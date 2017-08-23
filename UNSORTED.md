@@ -112,3 +112,8 @@
 * [Decisions, Decisions - Dan North](https://www.youtube.com/watch?v=EauykEv_2iA)
 * [Vincent D. Warmerdam - TNaaS - Tech Names as a Service](https://www.youtube.com/watch?v=0hR4peP9V4A)
 * [Spec-ulation Keynote - Rich Hickey](https://www.youtube.com/watch?v=oyLBGkS5ICk)
+* [Monktoberfest 2016: Bryan Cantrill - Oral Tradition in Software Engineering](https://youtu.be/4PaWFYm0kEw)
+* [Barliman - Trying the halting problem backwards, blindfolded - William Byrd, Greg Rosenblatt](https://youtu.be/er_lLvkklsk)
+* [Simplicity, The Way of the Unusual Architect - Dan North](https://www.youtube.com/watch?v=X2F2uIKCeRs)
+* [Monorepo to Multirepo and Back Again - Aimee Lucido](https://www.youtube.com/watch?v=lV8-1S28ycM)
+* [Why Google Stores Billions of Lines of Code in a Single Repository - Rachel Potvin](https://www.youtube.com/watch?v=W71BTkUbdqE)
