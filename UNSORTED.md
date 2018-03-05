@@ -2,6 +2,8 @@
 
 (This is a raw dump of talks we've watched as part of the "Brown Bag of Software Philosophy" series at work.)
 
+## 2015
+
 * [Simplicity Matters - Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Real Software Engineering - Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)
 * [Hammock-Driven Development - Rich Hickey](http://www.youtube.com/watch?v=f84n5oFoZBc)
@@ -30,6 +32,9 @@
 * [Spotify's Engineering Culture Part 2](https://vimeo.com/94950270)
 * [Breaking in Bad: I'm the one who doesn't knock - Jayson E Street](https://www.youtube.com/watch?v=UpX70KxGiVo)
 * [Debugging Node.js in Production (Netflix JS Talks)](http://techblog.netflix.com/2015/12/debugging-nodejs-in-production.html)
+
+## 2016
+
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * [David Beazley: Discovering Python - PyCon 2014](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8)
 * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
@@ -81,6 +86,12 @@
 * [Surge 2013 Lightning Talk - Bryan Cantrill](https://www.youtube.com/watch?v=vm1GJMp0QN4)
 * [Leaping the Chasm from Proprietary to Open: A Survivor's Guide - Bryan Cantrill](https://www.youtube.com/watch?v=Zpnncakrelk)
 * [Dynamic Languages in Production: Progress & Open Challenges - Bryan Cantrill & Dave Pacheco](https://www.youtube.com/watch?v=5TFILa4ju9U)
+
+## 2017
+
+* [Dark Patterns: User Interfaces Designed to Trick People](https://www.youtube.com/watch?v=1KVyFio8gw4)
+* [Software Defined Emissions](https://media.ccc.de/v/33c3-7904-software_defined_emissions)
+* [The Ultimate Game Boy Talk](https://www.youtube.com/watch?v=CImyDBJSTsQ)
 * ["You are not expected to understand this", but you will - Arun Thomas](http://systemswe.love/videos/you-are-not-expected-to-understand-this)
 * [Life of an Airline Flight: What Systems Get You From Here to There via the Air - Adam Fletcher](http://systemswe.love/videos/life-of-an-airline-flight)
 * [Man, 'splained: 40-Plus Years of Man Page History - Breanne Boland](http://systemswe.love/videos/man-splained)
@@ -117,3 +128,26 @@
 * [Simplicity, The Way of the Unusual Architect - Dan North](https://www.youtube.com/watch?v=X2F2uIKCeRs)
 * [Monorepo to Multirepo and Back Again - Aimee Lucido](https://www.youtube.com/watch?v=lV8-1S28ycM)
 * [Why Google Stores Billions of Lines of Code in a Single Repository - Rachel Potvin](https://www.youtube.com/watch?v=W71BTkUbdqE)
+* [Facts and Myths about Python Names and Values - PyCon 2015 - Ned Batchelder](https://youtu.be/_AEJHKGk9ns)
+* [Continuous Delivery in Agile - Jez Humble](https://www.agilealliance.org/resources/videos/continuous-delivery-in-agile/)
+* [GOTO 2016 - Psychology, Philosophy & Programming - Ted Neward](https://www.youtube.com/watch?v=XShcmCBK93E)
+* [Breaking the x86 instruction set](https://youtu.be/KrksBdWcZgQ)
+* [Pragmatic Architecture - Ted Neward](https://www.youtube.com/watch?v=jNgZtM6SQmE)
+* [Infinite State Machine Poetry in, with, and by Clojure - Eric Weinstein](https://www.youtube.com/watch?v=O-8-IpMzkBo)
+* [Effective Programs - 10 Years of Clojure - Rich Hickey](https://www.youtube.com/watch?v=2V1FtfBDsLU)
+* [Neal Ford - Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
+* [Zebras All the Way Down - Bryan Cantrill, Uptime 2017](https://www.youtube.com/watch?v=fE2KDzZaxvE)
+* [Transducers - Rich Hickey](https://www.youtube.com/watch?v=6mTbuzafcII)
+* [Jake Vanderplas - Statistics for Hackers - PyCon 2016](https://youtu.be/Iq9DzN6mvYA)
+* [RubyConf 2017: Keynote - You're Insufficiently Persuasive by Sandi Metz](https://www.youtube.com/watch?v=VzWLGMtXflg)
+* [RubyConf 2017: Keynote: Growing Old by Chad Fowler](https://www.youtube.com/watch?v=qH_y45he4-o)
+* [RubyConf 2017: Buuuuugs iiiiin Spaaaaace! by Colin Fulton](https://youtu.be/_ZdF82h_GrM)
+
+## 2018
+
+* [The Security of Classic Game Consoles, by Kevin Shekleton](https://youtu.be/s0XmiXs8iRw)
+* [Brandon Rhodes - Keynote: You look at it till a solution occurs](http://rhodesmill.org/brandon/talks/#till-a-solution-occurs)
+* [Brandon Rhodes strikes again, with Animating with ASCII!](http://rhodesmill.org/brandon/talks/#animating-with-ascii)
+* [Angular BuildTools Convergence - Alex Eagle](https://drive.google.com/file/d/1gfnEDccl3O0qBZGTMMbNm3h7pW160DEe/view)
+* [The Hurricane's Butterfly - Debugging Pathologically Performing Systems - Bryan Cantrill](https://www.youtube.com/watch?v=7AO4wz6gI3Q)
+* [It's Not Continuous Delivery If You Can't Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M)
