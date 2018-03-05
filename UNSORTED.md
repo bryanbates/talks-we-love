@@ -86,6 +86,7 @@
 * [Surge 2013 Lightning Talk - Bryan Cantrill](https://www.youtube.com/watch?v=vm1GJMp0QN4)
 * [Leaping the Chasm from Proprietary to Open: A Survivor's Guide - Bryan Cantrill](https://www.youtube.com/watch?v=Zpnncakrelk)
 * [Dynamic Languages in Production: Progress & Open Challenges - Bryan Cantrill & Dave Pacheco](https://www.youtube.com/watch?v=5TFILa4ju9U)
+* [Being a Core Developer in Python - Raymond Hettinger](https://www.youtube.com/watch?v=voXVTjwnn-U)
 
 ## 2017
 
