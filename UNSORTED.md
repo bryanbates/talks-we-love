@@ -152,3 +152,6 @@
 * [Angular BuildTools Convergence - Alex Eagle](https://drive.google.com/file/d/1gfnEDccl3O0qBZGTMMbNm3h7pW160DEe/view)
 * [The Hurricane's Butterfly - Debugging Pathologically Performing Systems - Bryan Cantrill](https://www.youtube.com/watch?v=7AO4wz6gI3Q)
 * [It's Not Continuous Delivery If You Can't Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M)
+* [Jepsen II: Linearizable Boogaloo - Kyle Kingsbury](https://www.youtube.com/watch?v=QdkS6ZjeR7Q)
+* [Platform as reflection of values: Joyent, node.js, and beyond – Bryan Cantrill](https://vimeo.com/230142234)
+* [GOTO 2017 – Forget Velocity, Let’s Talk Acceleration – Jessica Kerr](https://www.youtube.com/watch?v=Lbcyyu8XB_Y)
